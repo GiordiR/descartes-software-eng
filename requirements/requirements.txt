@@ -1,0 +1,9 @@
+pandas
+numpy
+ipykernel
+pytest
+matplotlib
+asyncio
+aiohttp
+validators
+urllib
